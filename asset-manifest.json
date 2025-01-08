@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/khj0105/mypage03/static/css/main.63f1d475.css",
+    "main.js": "/khj0105/mypage03/static/js/main.badb23d1.js",
+    "index.html": "/khj0105/mypage03/index.html",
+    "main.63f1d475.css.map": "/khj0105/mypage03/static/css/main.63f1d475.css.map",
+    "main.badb23d1.js.map": "/khj0105/mypage03/static/js/main.badb23d1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63f1d475.css",
+    "static/js/main.badb23d1.js"
+  ]
+}
